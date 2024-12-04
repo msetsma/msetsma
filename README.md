@@ -1,6 +1,6 @@
 <h1>👋👋👋👋👋</h1>
 
-I am a backend software engineer, located in West Michigan.
+I am a backend software engineer, building machine learning infrastructure for medical research!
 
 ## 9 to 5
 - Michigan State University Alumni - **[College of Engineering](https://engineering.msu.edu/)**
