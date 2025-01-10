@@ -13,4 +13,4 @@
 - 3D printing & modeling
 - Golfing
 
-<a href="https://github.com/msetsma"><img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msetsma&theme=dark&hide=html,jupyter%20notebook,css,cmake,&layout=compact&langs_count=8&bg_color=101010"></a>
+<a href="https://github.com/msetsma"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msetsma&theme=dark&hide=html,jupyter%20notebook,css,cmake,&layout=compact&langs_count=8&bg_color=101010"></a>
