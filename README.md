@@ -1,4 +1,4 @@
-Senior AI Software Engineer
+Senior AI Engineer
 - Chasing the perfect [dev environment](https://github.com/msetsma/.dotfiles) & [agent(s) environment](https://github.com/msetsma/.dotfiles-agents)
 - CLI tools preferred -> [CLI Guidelines](https://clig.dev/)
 
